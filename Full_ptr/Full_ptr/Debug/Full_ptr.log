@@ -1,0 +1,3 @@
+﻿  Full_ptr.cpp
+d:\c++\full_ptr\full_ptr\full_ptr.cpp(49): warning C4326: “main”的返回类型应为“int”而非“void”
+  Full_ptr.vcxproj -> D:\C++\Full_ptr\Debug\Full_ptr.exe
